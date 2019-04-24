@@ -5,4 +5,12 @@ class School
 def initialize(school)
   @roster={}
 end
+
+def add_student(name, num)
+
+end
+
+def sort
+
+end
 end
